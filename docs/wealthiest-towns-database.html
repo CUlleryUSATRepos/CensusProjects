@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Wealthiest towns in Pennsylvania</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; color: #222; background: #fff; }
+    .container { max-width: 1100px; margin: 0 auto; }
+    h1 { font-size: 24px; margin: 0 0 8px; }
+    .dek { color: #555; margin: 0 0 18px; line-height: 1.4; }
+    .controls { display: flex; gap: 12px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
+    input { flex: 1; min-width: 260px; padding: 10px; font-size: 15px; border: 1px solid #bbb; border-radius: 6px; }
+    .count { color: #555; font-size: 14px; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { border-bottom: 1px solid #ddd; padding: 10px 8px; text-align: left; vertical-align: top; }
+    th { background: #f2f2f2; font-weight: 700; position: sticky; top: 0; z-index: 1; }
+    tbody tr:nth-child(even) td { background: #f7f7f7; }
+    tbody tr:hover td { background: #eeeeee; }
+    .pagination { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 14px; flex-wrap: wrap; }
+    button { border: 1px solid #333; border-radius: 6px; background: #fff; padding: 8px 12px; cursor: pointer; font-size: 14px; }
+    button:disabled { opacity: 0.4; cursor: not-allowed; }
+    .source { margin-top: 18px; color: #666; font-size: 13px; line-height: 1.4; }
+    @media (max-width: 760px) {
+      body { padding: 12px; }
+      table { font-size: 13px; }
+      th, td { padding: 8px 6px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Wealthiest towns in Pennsylvania</h1>
+    <p class="dek">Search Pennsylvania municipalities ranked by the share of households earning $200,000 or more, based on 2020–2024 American Community Survey five-year estimates.</p>
+
+    <div class="controls">
+      <input id="searchInput" type="search" placeholder="Search by municipality or county...">
+      <div class="count" id="resultCount"></div>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Statewide rank</th>
+          <th>Municipality</th>
+          <th>County</th>
+          <th>Households earning $200,000 or more</th>
+          <th>Median household income</th>
+          <th>Estimated median income range</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+
+    <div class="pagination">
+      <button id="prevBtn">Previous</button>
+      <div id="pageStatus"></div>
+      <button id="nextBtn">Next</button>
+    </div>
+
+    <p class="source">Source: U.S. Census Bureau, 2020–2024 American Community Survey five-year Data Profile estimates. Municipal rankings are based on the estimated percentage of households earning $200,000 or more.</p>
+  </div>
+
+  <script>
+    const rowsPerPage = 10;
+    let allRows = [];
+    let filteredRows = [];
+    let currentPage = 1;
+
+    const tableBody = document.getElementById("tableBody");
+    const searchInput = document.getElementById("searchInput");
+    const resultCount = document.getElementById("resultCount");
+    const pageStatus = document.getElementById("pageStatus");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+
+    function renderTable() {
+      const totalPages = Math.max(1, Math.ceil(filteredRows.length / rowsPerPage));
+
+      if (currentPage > totalPages) {
+        currentPage = totalPages;
+      }
+
+      const start = (currentPage - 1) * rowsPerPage;
+      const pageRows = filteredRows.slice(start, start + rowsPerPage);
+
+      tableBody.innerHTML = "";
+
+      for (const row of pageRows) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${row.statewide_rank}</td>
+          <td>${row.municipality}</td>
+          <td>${row.county}</td>
+          <td>${row.households_200k_plus_display}</td>
+          <td>${row.median_household_income_display}</td>
+          <td>${row.median_household_income_range_display}</td>
+        `;
+        tableBody.appendChild(tr);
+      }
+
+      resultCount.textContent = `${filteredRows.length.toLocaleString()} municipalities`;
+      pageStatus.textContent = `Page ${currentPage} of ${totalPages}`;
+      prevBtn.disabled = currentPage <= 1;
+      nextBtn.disabled = currentPage >= totalPages;
+    }
+
+    function applySearch() {
+      const query = searchInput.value.trim().toLowerCase();
+
+      if (!query) {
+        filteredRows = [...allRows];
+      } else {
+        filteredRows = allRows.filter(row => {
+          return (
+            row.municipality.toLowerCase().includes(query) ||
+            row.county.toLowerCase().includes(query)
+          );
+        });
+      }
+
+      currentPage = 1;
+      renderTable();
+    }
+
+    prevBtn.addEventListener("click", () => {
+      currentPage -= 1;
+      renderTable();
+    });
+
+    nextBtn.addEventListener("click", () => {
+      currentPage += 1;
+      renderTable();
+    });
+
+    searchInput.addEventListener("input", applySearch);
+
+    fetch("assets/wealthiest_towns.json")
+      .then(response => response.json())
+      .then(data => {
+        allRows = data;
+        filteredRows = [...allRows];
+        renderTable();
+      });
+  </script>
+</body>
+</html>
