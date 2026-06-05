@@ -8,7 +8,7 @@ Source: 2024 American Community Survey five-year estimates.
 4. New Hope: 44.7% of households earned $200,000 or more. That ranked 24th statewide. Estimated median household income range: $131,344 to $218,968.
 5. Wrightstown: 43.2% of households earned $200,000 or more. That ranked 29th statewide. Estimated median household income range: $150,411 to $226,695.
 6. Lower Makefield: 43.1% of households earned $200,000 or more. That ranked 30th statewide. Estimated median household income range: $166,016 to $184,396.
-7. Newtown: 40.9% of households earned $200,000 or more. That ranked 39th statewide. Estimated median household income range: $141,765 to $191,093.
-8. Doylestown: 39.6% of households earned $200,000 or more. That ranked 45th statewide. Estimated median household income range: $126,353 to $173,175.
+7. Newtown Borough: 40.9% of households earned $200,000 or more. That ranked 39th statewide. Estimated median household income range: $141,765 to $191,093.
+8. Doylestown Township: 39.6% of households earned $200,000 or more. That ranked 45th statewide. Estimated median household income range: $126,353 to $173,175.
 9. Northampton: 36.3% of households earned $200,000 or more. That ranked 56th statewide. Estimated median household income range: $154,775 to $162,391.
 10. Warwick: 34.5% of households earned $200,000 or more. That ranked 69th statewide. Estimated median household income range: $140,837 to $169,865.

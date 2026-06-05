@@ -1,51 +1,51 @@
-NAME,DP03_0061PE,DP03_0061PM,DP03_0062E,DP03_0062M,state_fips,county_fips,county_subdivision_fips,municipality,county,pct_200k_plus,pct_200k_plus_moe,median_income,median_income_moe,median_income_low,median_income_high,state_rank
-"Ben Avon Heights borough, Allegheny County, Pennsylvania",62.6,11.4,234375.0,31606.0,42,003,05520,Ben Avon Heights,Allegheny County,62.6,11.4,234375.0,31606.0,202769.0,265981.0,1
-"Rose Valley borough, Delaware County, Pennsylvania",59.2,8.9,246875.0,61474.0,42,045,66192,Rose Valley,Delaware County,59.2,8.9,246875.0,61474.0,185401.0,308349.0,2
-"Fox Chapel borough, Allegheny County, Pennsylvania",59.0,6.5,243625.0,39371.0,42,003,27120,Fox Chapel,Allegheny County,59.0,6.5,243625.0,39371.0,204254.0,282996.0,3
-"West Pikeland township, Chester County, Pennsylvania",58.1,8.6,226071.0,39086.0,42,029,83832,West Pikeland,Chester County,58.1,8.6,226071.0,39086.0,186985.0,265157.0,4
-"Pocopson township, Chester County, Pennsylvania",57.9,7.1,230000.0,23963.0,42,029,61800,Pocopson,Chester County,57.9,7.1,230000.0,23963.0,206037.0,253963.0,5
-"Thornburg borough, Allegheny County, Pennsylvania",56.9,7.3,231250.0,37721.0,42,003,76560,Thornburg,Allegheny County,56.9,7.3,231250.0,37721.0,193529.0,268971.0,6
-"Upper Makefield township, Bucks County, Pennsylvania",55.3,5.4,212768.0,26157.0,42,017,79128,Upper Makefield,Bucks County,55.3,5.4,212768.0,26157.0,186611.0,238925.0,7
-"West Vincent township, Chester County, Pennsylvania",55.1,8.0,202639.0,11207.0,42,029,84160,West Vincent,Chester County,55.1,8.0,202639.0,11207.0,191432.0,213846.0,8
-"Easttown township, Chester County, Pennsylvania",54.6,5.1,214861.0,17210.0,42,029,21928,Easttown,Chester County,54.6,5.1,214861.0,17210.0,197651.0,232071.0,9
-"Birmingham township, Chester County, Pennsylvania",54.3,7.9,215000.0,39102.0,42,029,06544,Birmingham,Chester County,54.3,7.9,215000.0,39102.0,175898.0,254102.0,10
-"Sewickley Heights borough, Allegheny County, Pennsylvania",50.9,10.1,203214.0,44260.0,42,003,69400,Sewickley Heights,Allegheny County,50.9,10.1,203214.0,44260.0,158954.0,247474.0,11
-"Edgeworth borough, Allegheny County, Pennsylvania",50.8,8.8,202813.0,62253.0,42,003,22576,Edgeworth,Allegheny County,50.8,8.8,202813.0,62253.0,140560.0,265066.0,12
-"Charlestown township, Chester County, Pennsylvania",50.6,9.6,202188.0,52381.0,42,029,12744,Charlestown,Chester County,50.6,9.6,202188.0,52381.0,149807.0,254569.0,13
-"Solebury township, Bucks County, Pennsylvania",49.2,6.2,195962.0,17719.0,42,017,71752,Solebury,Bucks County,49.2,6.2,195962.0,17719.0,178243.0,213681.0,14
-"London Britain township, Chester County, Pennsylvania",48.6,6.5,194531.0,30843.0,42,029,44440,London Britain,Chester County,48.6,6.5,194531.0,30843.0,163688.0,225374.0,15
-"Thornbury township, Delaware County, Pennsylvania",48.1,7.0,191543.0,22058.0,42,045,76576,Thornbury,Delaware County,48.1,7.0,191543.0,22058.0,169485.0,213601.0,16
-"East Brandywine township, Chester County, Pennsylvania",48.0,8.4,180714.0,45926.0,42,029,20864,East Brandywine,Chester County,48.0,8.4,180714.0,45926.0,134788.0,226640.0,17
-"Upper Uwchlan township, Chester County, Pennsylvania",47.6,5.1,190691.0,19245.0,42,029,79352,Upper Uwchlan,Chester County,47.6,5.1,190691.0,19245.0,171446.0,209936.0,18
-"Willistown township, Chester County, Pennsylvania",46.9,5.0,187466.0,16017.0,42,029,85352,Willistown,Chester County,46.9,5.0,187466.0,16017.0,171449.0,203483.0,19
-"Lower Merion township, Montgomery County, Pennsylvania",46.4,2.1,176512.0,12969.0,42,091,44976,Lower Merion,Montgomery County,46.4,2.1,176512.0,12969.0,163543.0,189481.0,20
-"Buckingham township, Bucks County, Pennsylvania",46.3,3.7,190230.0,17222.0,42,017,09816,Buckingham,Bucks County,46.3,3.7,190230.0,17222.0,173008.0,207452.0,21
-"Swarthmore borough, Delaware County, Pennsylvania",45.1,7.9,152361.0,53472.0,42,045,75648,Swarthmore,Delaware County,45.1,7.9,152361.0,53472.0,98889.0,205833.0,22
-"Schuylkill township, Chester County, Pennsylvania",45.1,5.4,171786.0,28510.0,42,029,68288,Schuylkill,Chester County,45.1,5.4,171786.0,28510.0,143276.0,200296.0,22
-"New Hope borough, Bucks County, Pennsylvania",44.7,10.0,175156.0,43812.0,42,017,53712,New Hope,Bucks County,44.7,10.0,175156.0,43812.0,131344.0,218968.0,24
-"Chadds Ford township, Delaware County, Pennsylvania",43.8,7.3,168491.0,23191.0,42,045,12442,Chadds Ford,Delaware County,43.8,7.3,168491.0,23191.0,145300.0,191682.0,25
-"Radnor township, Delaware County, Pennsylvania",43.8,4.0,164359.0,14683.0,42,045,63264,Radnor,Delaware County,43.8,4.0,164359.0,14683.0,149676.0,179042.0,25
-"Sewickley Hills borough, Allegheny County, Pennsylvania",43.6,10.4,175000.0,39507.0,42,003,69416,Sewickley Hills,Allegheny County,43.6,10.4,175000.0,39507.0,135493.0,214507.0,27
-"Pine township, Allegheny County, Pennsylvania",43.5,5.8,184591.0,13137.0,42,003,60272,Pine,Allegheny County,43.5,5.8,184591.0,13137.0,171454.0,197728.0,28
-"Wrightstown township, Bucks County, Pennsylvania",43.2,7.6,188553.0,38142.0,42,017,86624,Wrightstown,Bucks County,43.2,7.6,188553.0,38142.0,150411.0,226695.0,29
-"Lower Makefield township, Bucks County, Pennsylvania",43.1,3.1,175206.0,9190.0,42,017,44968,Lower Makefield,Bucks County,43.1,3.1,175206.0,9190.0,166016.0,184396.0,30
-"Worcester township, Montgomery County, Pennsylvania",43.0,6.2,185114.0,41325.0,42,091,86496,Worcester,Montgomery County,43.0,6.2,185114.0,41325.0,143789.0,226439.0,31
-"Newlin township, Chester County, Pennsylvania",42.6,7.0,160341.0,13262.0,42,029,53784,Newlin,Chester County,42.6,7.0,160341.0,13262.0,147079.0,173603.0,32
-"Franklin Park borough, Allegheny County, Pennsylvania",42.4,5.0,176875.0,20955.0,42,003,27552,Franklin Park,Allegheny County,42.4,5.0,176875.0,20955.0,155920.0,197830.0,33
-"Thornbury township, Chester County, Pennsylvania",41.8,8.0,172070.0,24731.0,42,029,76568,Thornbury,Chester County,41.8,8.0,172070.0,24731.0,147339.0,196801.0,34
-"Bell Acres borough, Allegheny County, Pennsylvania",41.5,6.3,165987.0,21701.0,42,003,05216,Bell Acres,Allegheny County,41.5,6.3,165987.0,21701.0,144286.0,187688.0,35
-"London Grove township, Chester County, Pennsylvania",41.2,6.8,175558.0,19783.0,42,029,44480,London Grove,Chester County,41.2,6.8,175558.0,19783.0,155775.0,195341.0,36
-"Upper Dublin township, Montgomery County, Pennsylvania",41.1,2.7,168010.0,5043.0,42,091,79008,Upper Dublin,Montgomery County,41.1,2.7,168010.0,5043.0,162967.0,173053.0,37
-"Marshall township, Allegheny County, Pennsylvania",41.1,6.1,165099.0,18475.0,42,003,47696,Marshall,Allegheny County,41.1,6.1,165099.0,18475.0,146624.0,183574.0,37
-"Newtown borough, Bucks County, Pennsylvania",40.9,6.9,166429.0,24664.0,42,017,54184,Newtown,Bucks County,40.9,6.9,166429.0,24664.0,141765.0,191093.0,39
-"Whitpain township, Montgomery County, Pennsylvania",40.5,4.8,162856.0,17658.0,42,091,84888,Whitpain,Montgomery County,40.5,4.8,162856.0,17658.0,145198.0,180514.0,40
-"Upper St. Clair township, Allegheny County, Pennsylvania",40.4,3.7,163409.0,12009.0,42,003,79274,Upper St. Clair,Allegheny County,40.4,3.7,163409.0,12009.0,151400.0,175418.0,41
-"New London township, Chester County, Pennsylvania",40.2,6.7,165313.0,19416.0,42,029,53816,New London,Chester County,40.2,6.7,165313.0,19416.0,145897.0,184729.0,42
-"Lower Gwynedd township, Montgomery County, Pennsylvania",40.1,4.2,139615.0,18250.0,42,091,44920,Lower Gwynedd,Montgomery County,40.1,4.2,139615.0,18250.0,121365.0,157865.0,43
-"Pennsbury township, Chester County, Pennsylvania",40.1,7.9,167727.0,17026.0,42,029,59136,Pennsbury,Chester County,40.1,7.9,167727.0,17026.0,150701.0,184753.0,43
-"Doylestown township, Bucks County, Pennsylvania",39.6,5.6,149764.0,23411.0,42,017,19792,Doylestown,Bucks County,39.6,5.6,149764.0,23411.0,126353.0,173175.0,45
-"Tredyffrin township, Chester County, Pennsylvania",39.4,3.1,162194.0,11811.0,42,029,77344,Tredyffrin,Chester County,39.4,3.1,162194.0,11811.0,150383.0,174005.0,46
-"Bethel township, Delaware County, Pennsylvania",39.1,5.6,177137.0,15557.0,42,045,06024,Bethel,Delaware County,39.1,5.6,177137.0,15557.0,161580.0,192694.0,47
-"Wallace township, Chester County, Pennsylvania",38.7,8.0,182500.0,25035.0,42,029,80616,Wallace,Chester County,38.7,8.0,182500.0,25035.0,157465.0,207535.0,48
-"Upper Providence township, Delaware County, Pennsylvania",38.1,4.7,150563.0,24410.0,42,045,79248,Upper Providence,Delaware County,38.1,4.7,150563.0,24410.0,126153.0,174973.0,49
-"Lower Moreland township, Montgomery County, Pennsylvania",37.9,4.0,153639.0,14001.0,42,091,45008,Lower Moreland,Montgomery County,37.9,4.0,153639.0,14001.0,139638.0,167640.0,50
+NAME,DP03_0061PE,DP03_0061PM,DP03_0062E,DP03_0062M,state_fips,county_fips,county_subdivision_fips,municipality_base,county,municipality_type,municipality,pct_200k_plus,pct_200k_plus_moe,median_income,median_income_moe,median_income_low,median_income_high,state_rank
+"Ben Avon Heights borough, Allegheny County, Pennsylvania",62.6,11.4,234375.0,31606.0,42,003,05520,Ben Avon Heights,Allegheny County,Borough,Ben Avon Heights,62.6,11.4,234375.0,31606.0,202769.0,265981.0,1
+"Rose Valley borough, Delaware County, Pennsylvania",59.2,8.9,246875.0,61474.0,42,045,66192,Rose Valley,Delaware County,Borough,Rose Valley,59.2,8.9,246875.0,61474.0,185401.0,308349.0,2
+"Fox Chapel borough, Allegheny County, Pennsylvania",59.0,6.5,243625.0,39371.0,42,003,27120,Fox Chapel,Allegheny County,Borough,Fox Chapel,59.0,6.5,243625.0,39371.0,204254.0,282996.0,3
+"West Pikeland township, Chester County, Pennsylvania",58.1,8.6,226071.0,39086.0,42,029,83832,West Pikeland,Chester County,Township,West Pikeland,58.1,8.6,226071.0,39086.0,186985.0,265157.0,4
+"Pocopson township, Chester County, Pennsylvania",57.9,7.1,230000.0,23963.0,42,029,61800,Pocopson,Chester County,Township,Pocopson,57.9,7.1,230000.0,23963.0,206037.0,253963.0,5
+"Thornburg borough, Allegheny County, Pennsylvania",56.9,7.3,231250.0,37721.0,42,003,76560,Thornburg,Allegheny County,Borough,Thornburg,56.9,7.3,231250.0,37721.0,193529.0,268971.0,6
+"Upper Makefield township, Bucks County, Pennsylvania",55.3,5.4,212768.0,26157.0,42,017,79128,Upper Makefield,Bucks County,Township,Upper Makefield,55.3,5.4,212768.0,26157.0,186611.0,238925.0,7
+"West Vincent township, Chester County, Pennsylvania",55.1,8.0,202639.0,11207.0,42,029,84160,West Vincent,Chester County,Township,West Vincent,55.1,8.0,202639.0,11207.0,191432.0,213846.0,8
+"Easttown township, Chester County, Pennsylvania",54.6,5.1,214861.0,17210.0,42,029,21928,Easttown,Chester County,Township,Easttown,54.6,5.1,214861.0,17210.0,197651.0,232071.0,9
+"Birmingham township, Chester County, Pennsylvania",54.3,7.9,215000.0,39102.0,42,029,06544,Birmingham,Chester County,Township,Birmingham,54.3,7.9,215000.0,39102.0,175898.0,254102.0,10
+"Sewickley Heights borough, Allegheny County, Pennsylvania",50.9,10.1,203214.0,44260.0,42,003,69400,Sewickley Heights,Allegheny County,Borough,Sewickley Heights,50.9,10.1,203214.0,44260.0,158954.0,247474.0,11
+"Edgeworth borough, Allegheny County, Pennsylvania",50.8,8.8,202813.0,62253.0,42,003,22576,Edgeworth,Allegheny County,Borough,Edgeworth,50.8,8.8,202813.0,62253.0,140560.0,265066.0,12
+"Charlestown township, Chester County, Pennsylvania",50.6,9.6,202188.0,52381.0,42,029,12744,Charlestown,Chester County,Township,Charlestown,50.6,9.6,202188.0,52381.0,149807.0,254569.0,13
+"Solebury township, Bucks County, Pennsylvania",49.2,6.2,195962.0,17719.0,42,017,71752,Solebury,Bucks County,Township,Solebury,49.2,6.2,195962.0,17719.0,178243.0,213681.0,14
+"London Britain township, Chester County, Pennsylvania",48.6,6.5,194531.0,30843.0,42,029,44440,London Britain,Chester County,Township,London Britain,48.6,6.5,194531.0,30843.0,163688.0,225374.0,15
+"Thornbury township, Delaware County, Pennsylvania",48.1,7.0,191543.0,22058.0,42,045,76576,Thornbury,Delaware County,Township,Thornbury,48.1,7.0,191543.0,22058.0,169485.0,213601.0,16
+"East Brandywine township, Chester County, Pennsylvania",48.0,8.4,180714.0,45926.0,42,029,20864,East Brandywine,Chester County,Township,East Brandywine,48.0,8.4,180714.0,45926.0,134788.0,226640.0,17
+"Upper Uwchlan township, Chester County, Pennsylvania",47.6,5.1,190691.0,19245.0,42,029,79352,Upper Uwchlan,Chester County,Township,Upper Uwchlan,47.6,5.1,190691.0,19245.0,171446.0,209936.0,18
+"Willistown township, Chester County, Pennsylvania",46.9,5.0,187466.0,16017.0,42,029,85352,Willistown,Chester County,Township,Willistown,46.9,5.0,187466.0,16017.0,171449.0,203483.0,19
+"Lower Merion township, Montgomery County, Pennsylvania",46.4,2.1,176512.0,12969.0,42,091,44976,Lower Merion,Montgomery County,Township,Lower Merion,46.4,2.1,176512.0,12969.0,163543.0,189481.0,20
+"Buckingham township, Bucks County, Pennsylvania",46.3,3.7,190230.0,17222.0,42,017,09816,Buckingham,Bucks County,Township,Buckingham,46.3,3.7,190230.0,17222.0,173008.0,207452.0,21
+"Swarthmore borough, Delaware County, Pennsylvania",45.1,7.9,152361.0,53472.0,42,045,75648,Swarthmore,Delaware County,Borough,Swarthmore,45.1,7.9,152361.0,53472.0,98889.0,205833.0,22
+"Schuylkill township, Chester County, Pennsylvania",45.1,5.4,171786.0,28510.0,42,029,68288,Schuylkill,Chester County,Township,Schuylkill,45.1,5.4,171786.0,28510.0,143276.0,200296.0,22
+"New Hope borough, Bucks County, Pennsylvania",44.7,10.0,175156.0,43812.0,42,017,53712,New Hope,Bucks County,Borough,New Hope,44.7,10.0,175156.0,43812.0,131344.0,218968.0,24
+"Chadds Ford township, Delaware County, Pennsylvania",43.8,7.3,168491.0,23191.0,42,045,12442,Chadds Ford,Delaware County,Township,Chadds Ford,43.8,7.3,168491.0,23191.0,145300.0,191682.0,25
+"Radnor township, Delaware County, Pennsylvania",43.8,4.0,164359.0,14683.0,42,045,63264,Radnor,Delaware County,Township,Radnor,43.8,4.0,164359.0,14683.0,149676.0,179042.0,25
+"Sewickley Hills borough, Allegheny County, Pennsylvania",43.6,10.4,175000.0,39507.0,42,003,69416,Sewickley Hills,Allegheny County,Borough,Sewickley Hills,43.6,10.4,175000.0,39507.0,135493.0,214507.0,27
+"Pine township, Allegheny County, Pennsylvania",43.5,5.8,184591.0,13137.0,42,003,60272,Pine,Allegheny County,Township,Pine,43.5,5.8,184591.0,13137.0,171454.0,197728.0,28
+"Wrightstown township, Bucks County, Pennsylvania",43.2,7.6,188553.0,38142.0,42,017,86624,Wrightstown,Bucks County,Township,Wrightstown,43.2,7.6,188553.0,38142.0,150411.0,226695.0,29
+"Lower Makefield township, Bucks County, Pennsylvania",43.1,3.1,175206.0,9190.0,42,017,44968,Lower Makefield,Bucks County,Township,Lower Makefield,43.1,3.1,175206.0,9190.0,166016.0,184396.0,30
+"Worcester township, Montgomery County, Pennsylvania",43.0,6.2,185114.0,41325.0,42,091,86496,Worcester,Montgomery County,Township,Worcester,43.0,6.2,185114.0,41325.0,143789.0,226439.0,31
+"Newlin township, Chester County, Pennsylvania",42.6,7.0,160341.0,13262.0,42,029,53784,Newlin,Chester County,Township,Newlin,42.6,7.0,160341.0,13262.0,147079.0,173603.0,32
+"Franklin Park borough, Allegheny County, Pennsylvania",42.4,5.0,176875.0,20955.0,42,003,27552,Franklin Park,Allegheny County,Borough,Franklin Park,42.4,5.0,176875.0,20955.0,155920.0,197830.0,33
+"Thornbury township, Chester County, Pennsylvania",41.8,8.0,172070.0,24731.0,42,029,76568,Thornbury,Chester County,Township,Thornbury,41.8,8.0,172070.0,24731.0,147339.0,196801.0,34
+"Bell Acres borough, Allegheny County, Pennsylvania",41.5,6.3,165987.0,21701.0,42,003,05216,Bell Acres,Allegheny County,Borough,Bell Acres,41.5,6.3,165987.0,21701.0,144286.0,187688.0,35
+"London Grove township, Chester County, Pennsylvania",41.2,6.8,175558.0,19783.0,42,029,44480,London Grove,Chester County,Township,London Grove,41.2,6.8,175558.0,19783.0,155775.0,195341.0,36
+"Upper Dublin township, Montgomery County, Pennsylvania",41.1,2.7,168010.0,5043.0,42,091,79008,Upper Dublin,Montgomery County,Township,Upper Dublin,41.1,2.7,168010.0,5043.0,162967.0,173053.0,37
+"Marshall township, Allegheny County, Pennsylvania",41.1,6.1,165099.0,18475.0,42,003,47696,Marshall,Allegheny County,Township,Marshall,41.1,6.1,165099.0,18475.0,146624.0,183574.0,37
+"Newtown borough, Bucks County, Pennsylvania",40.9,6.9,166429.0,24664.0,42,017,54184,Newtown,Bucks County,Borough,Newtown Borough,40.9,6.9,166429.0,24664.0,141765.0,191093.0,39
+"Whitpain township, Montgomery County, Pennsylvania",40.5,4.8,162856.0,17658.0,42,091,84888,Whitpain,Montgomery County,Township,Whitpain,40.5,4.8,162856.0,17658.0,145198.0,180514.0,40
+"Upper St. Clair township, Allegheny County, Pennsylvania",40.4,3.7,163409.0,12009.0,42,003,79274,Upper St. Clair,Allegheny County,Township,Upper St. Clair,40.4,3.7,163409.0,12009.0,151400.0,175418.0,41
+"New London township, Chester County, Pennsylvania",40.2,6.7,165313.0,19416.0,42,029,53816,New London,Chester County,Township,New London,40.2,6.7,165313.0,19416.0,145897.0,184729.0,42
+"Lower Gwynedd township, Montgomery County, Pennsylvania",40.1,4.2,139615.0,18250.0,42,091,44920,Lower Gwynedd,Montgomery County,Township,Lower Gwynedd,40.1,4.2,139615.0,18250.0,121365.0,157865.0,43
+"Pennsbury township, Chester County, Pennsylvania",40.1,7.9,167727.0,17026.0,42,029,59136,Pennsbury,Chester County,Township,Pennsbury,40.1,7.9,167727.0,17026.0,150701.0,184753.0,43
+"Doylestown township, Bucks County, Pennsylvania",39.6,5.6,149764.0,23411.0,42,017,19792,Doylestown,Bucks County,Township,Doylestown Township,39.6,5.6,149764.0,23411.0,126353.0,173175.0,45
+"Tredyffrin township, Chester County, Pennsylvania",39.4,3.1,162194.0,11811.0,42,029,77344,Tredyffrin,Chester County,Township,Tredyffrin,39.4,3.1,162194.0,11811.0,150383.0,174005.0,46
+"Bethel township, Delaware County, Pennsylvania",39.1,5.6,177137.0,15557.0,42,045,06024,Bethel,Delaware County,Township,Bethel,39.1,5.6,177137.0,15557.0,161580.0,192694.0,47
+"Wallace township, Chester County, Pennsylvania",38.7,8.0,182500.0,25035.0,42,029,80616,Wallace,Chester County,Township,Wallace,38.7,8.0,182500.0,25035.0,157465.0,207535.0,48
+"Upper Providence township, Delaware County, Pennsylvania",38.1,4.7,150563.0,24410.0,42,045,79248,Upper Providence,Delaware County,Township,Upper Providence,38.1,4.7,150563.0,24410.0,126153.0,174973.0,49
+"Lower Moreland township, Montgomery County, Pennsylvania",37.9,4.0,153639.0,14001.0,42,091,45008,Lower Moreland,Montgomery County,Township,Lower Moreland,37.9,4.0,153639.0,14001.0,139638.0,167640.0,50

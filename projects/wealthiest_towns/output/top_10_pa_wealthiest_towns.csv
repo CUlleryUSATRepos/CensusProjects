@@ -1,11 +1,11 @@
-NAME,DP03_0061PE,DP03_0061PM,DP03_0062E,DP03_0062M,state_fips,county_fips,county_subdivision_fips,municipality,county,pct_200k_plus,pct_200k_plus_moe,median_income,median_income_moe,median_income_low,median_income_high,state_rank
-"Ben Avon Heights borough, Allegheny County, Pennsylvania",62.6,11.4,234375.0,31606.0,42,003,05520,Ben Avon Heights,Allegheny County,62.6,11.4,234375.0,31606.0,202769.0,265981.0,1
-"Rose Valley borough, Delaware County, Pennsylvania",59.2,8.9,246875.0,61474.0,42,045,66192,Rose Valley,Delaware County,59.2,8.9,246875.0,61474.0,185401.0,308349.0,2
-"Fox Chapel borough, Allegheny County, Pennsylvania",59.0,6.5,243625.0,39371.0,42,003,27120,Fox Chapel,Allegheny County,59.0,6.5,243625.0,39371.0,204254.0,282996.0,3
-"West Pikeland township, Chester County, Pennsylvania",58.1,8.6,226071.0,39086.0,42,029,83832,West Pikeland,Chester County,58.1,8.6,226071.0,39086.0,186985.0,265157.0,4
-"Pocopson township, Chester County, Pennsylvania",57.9,7.1,230000.0,23963.0,42,029,61800,Pocopson,Chester County,57.9,7.1,230000.0,23963.0,206037.0,253963.0,5
-"Thornburg borough, Allegheny County, Pennsylvania",56.9,7.3,231250.0,37721.0,42,003,76560,Thornburg,Allegheny County,56.9,7.3,231250.0,37721.0,193529.0,268971.0,6
-"Upper Makefield township, Bucks County, Pennsylvania",55.3,5.4,212768.0,26157.0,42,017,79128,Upper Makefield,Bucks County,55.3,5.4,212768.0,26157.0,186611.0,238925.0,7
-"West Vincent township, Chester County, Pennsylvania",55.1,8.0,202639.0,11207.0,42,029,84160,West Vincent,Chester County,55.1,8.0,202639.0,11207.0,191432.0,213846.0,8
-"Easttown township, Chester County, Pennsylvania",54.6,5.1,214861.0,17210.0,42,029,21928,Easttown,Chester County,54.6,5.1,214861.0,17210.0,197651.0,232071.0,9
-"Birmingham township, Chester County, Pennsylvania",54.3,7.9,215000.0,39102.0,42,029,06544,Birmingham,Chester County,54.3,7.9,215000.0,39102.0,175898.0,254102.0,10
+NAME,DP03_0061PE,DP03_0061PM,DP03_0062E,DP03_0062M,state_fips,county_fips,county_subdivision_fips,municipality_base,county,municipality_type,municipality,pct_200k_plus,pct_200k_plus_moe,median_income,median_income_moe,median_income_low,median_income_high,state_rank
+"Ben Avon Heights borough, Allegheny County, Pennsylvania",62.6,11.4,234375.0,31606.0,42,003,05520,Ben Avon Heights,Allegheny County,Borough,Ben Avon Heights,62.6,11.4,234375.0,31606.0,202769.0,265981.0,1
+"Rose Valley borough, Delaware County, Pennsylvania",59.2,8.9,246875.0,61474.0,42,045,66192,Rose Valley,Delaware County,Borough,Rose Valley,59.2,8.9,246875.0,61474.0,185401.0,308349.0,2
+"Fox Chapel borough, Allegheny County, Pennsylvania",59.0,6.5,243625.0,39371.0,42,003,27120,Fox Chapel,Allegheny County,Borough,Fox Chapel,59.0,6.5,243625.0,39371.0,204254.0,282996.0,3
+"West Pikeland township, Chester County, Pennsylvania",58.1,8.6,226071.0,39086.0,42,029,83832,West Pikeland,Chester County,Township,West Pikeland,58.1,8.6,226071.0,39086.0,186985.0,265157.0,4
+"Pocopson township, Chester County, Pennsylvania",57.9,7.1,230000.0,23963.0,42,029,61800,Pocopson,Chester County,Township,Pocopson,57.9,7.1,230000.0,23963.0,206037.0,253963.0,5
+"Thornburg borough, Allegheny County, Pennsylvania",56.9,7.3,231250.0,37721.0,42,003,76560,Thornburg,Allegheny County,Borough,Thornburg,56.9,7.3,231250.0,37721.0,193529.0,268971.0,6
+"Upper Makefield township, Bucks County, Pennsylvania",55.3,5.4,212768.0,26157.0,42,017,79128,Upper Makefield,Bucks County,Township,Upper Makefield,55.3,5.4,212768.0,26157.0,186611.0,238925.0,7
+"West Vincent township, Chester County, Pennsylvania",55.1,8.0,202639.0,11207.0,42,029,84160,West Vincent,Chester County,Township,West Vincent,55.1,8.0,202639.0,11207.0,191432.0,213846.0,8
+"Easttown township, Chester County, Pennsylvania",54.6,5.1,214861.0,17210.0,42,029,21928,Easttown,Chester County,Township,Easttown,54.6,5.1,214861.0,17210.0,197651.0,232071.0,9
+"Birmingham township, Chester County, Pennsylvania",54.3,7.9,215000.0,39102.0,42,029,06544,Birmingham,Chester County,Township,Birmingham,54.3,7.9,215000.0,39102.0,175898.0,254102.0,10

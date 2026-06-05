@@ -50,10 +50,52 @@ def build_municipality_rankings():
         }
     )
 
-    towns["municipality"] = towns["NAME"].apply(clean_pa_municipality_name)
+    towns["municipality_base"] = towns["NAME"].apply(clean_pa_municipality_name)
 
     # Writing-friendly county name, used in story text and lists.
     towns["county"] = towns["NAME"].apply(extract_county_from_name)
+
+    def extract_municipality_type(name):
+        first_part = name.split(",")[0].strip()
+        first_part_lower = first_part.lower()
+
+        type_map = {
+            " township": "Township",
+            " borough": "Borough",
+            " city": "City",
+            " town": "Town",
+            " municipality": "Municipality",
+        }
+
+        for suffix, label in type_map.items():
+            if first_part_lower.endswith(suffix):
+                return label
+
+        return ""
+
+    towns["municipality_type"] = towns["NAME"].apply(extract_municipality_type)
+
+    duplicate_base_name = towns.duplicated(
+        subset=["county", "municipality_base"],
+        keep=False
+    )
+
+    towns["municipality"] = towns["municipality_base"]
+
+    towns.loc[
+        duplicate_base_name & towns["municipality_type"].ne(""),
+        "municipality"
+    ] = (
+        towns.loc[
+            duplicate_base_name & towns["municipality_type"].ne(""),
+            "municipality_base"
+        ]
+        + " "
+        + towns.loc[
+            duplicate_base_name & towns["municipality_type"].ne(""),
+            "municipality_type"
+        ]
+    )
 
     towns["pct_200k_plus"] = clean_census_number(towns["DP03_0061PE"])
     towns["pct_200k_plus_moe"] = clean_census_number(towns["DP03_0061PM"])

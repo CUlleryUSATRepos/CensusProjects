@@ -685,7 +685,7 @@
   },
   {
     "statewide_rank": 39,
-    "municipality": "Newtown",
+    "municipality": "Newtown Borough",
     "county": "Bucks County",
     "households_200k_plus_pct": 40.9,
     "households_200k_plus_moe": 6.9,
@@ -793,7 +793,7 @@
   },
   {
     "statewide_rank": 45,
-    "municipality": "Doylestown",
+    "municipality": "Doylestown Township",
     "county": "Bucks County",
     "households_200k_plus_pct": 39.6,
     "households_200k_plus_moe": 5.6,
@@ -1459,7 +1459,7 @@
   },
   {
     "statewide_rank": 82,
-    "municipality": "New Britain",
+    "municipality": "New Britain Township",
     "county": "Bucks County",
     "households_200k_plus_pct": 31.3,
     "households_200k_plus_moe": 4.3,
@@ -1801,7 +1801,7 @@
   },
   {
     "statewide_rank": 99,
-    "municipality": "Newtown",
+    "municipality": "Newtown Township",
     "county": "Bucks County",
     "households_200k_plus_pct": 28.6,
     "households_200k_plus_moe": 3.7,
@@ -3115,7 +3115,7 @@
   },
   {
     "statewide_rank": 172,
-    "municipality": "Hatfield",
+    "municipality": "Hatfield Township",
     "county": "Montgomery County",
     "households_200k_plus_pct": 22.2,
     "households_200k_plus_moe": 3.2,
@@ -3529,7 +3529,7 @@
   },
   {
     "statewide_rank": 196,
-    "municipality": "Manheim",
+    "municipality": "Manheim Township",
     "county": "Lancaster County",
     "households_200k_plus_pct": 20.7,
     "households_200k_plus_moe": 2.2,
@@ -3619,7 +3619,7 @@
   },
   {
     "statewide_rank": 202,
-    "municipality": "Bethlehem",
+    "municipality": "Bethlehem Township",
     "county": "Northampton County",
     "households_200k_plus_pct": 20.6,
     "households_200k_plus_moe": 3.3,
@@ -3781,7 +3781,7 @@
   },
   {
     "statewide_rank": 210,
-    "municipality": "Burlington",
+    "municipality": "Burlington Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 19.9,
     "households_200k_plus_moe": 6.4,
@@ -3943,7 +3943,7 @@
   },
   {
     "statewide_rank": 218,
-    "municipality": "Doylestown",
+    "municipality": "Doylestown Borough",
     "county": "Bucks County",
     "households_200k_plus_pct": 19.6,
     "households_200k_plus_moe": 5.1,
@@ -4069,7 +4069,7 @@
   },
   {
     "statewide_rank": 224,
-    "municipality": "Shrewsbury",
+    "municipality": "Shrewsbury Township",
     "county": "York County",
     "households_200k_plus_pct": 19.4,
     "households_200k_plus_moe": 5.6,
@@ -4429,7 +4429,7 @@
   },
   {
     "statewide_rank": 247,
-    "municipality": "Manchester",
+    "municipality": "Manchester Township",
     "county": "York County",
     "households_200k_plus_pct": 18.5,
     "households_200k_plus_moe": 3.7,
@@ -4645,7 +4645,7 @@
   },
   {
     "statewide_rank": 258,
-    "municipality": "Penn",
+    "municipality": "Penn Township",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 18.1,
     "households_200k_plus_moe": 3.7,
@@ -5437,7 +5437,7 @@
   },
   {
     "statewide_rank": 303,
-    "municipality": "Dallas",
+    "municipality": "Dallas Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 16.8,
     "households_200k_plus_moe": 4.8,
@@ -5545,7 +5545,7 @@
   },
   {
     "statewide_rank": 307,
-    "municipality": "Connoquenessing",
+    "municipality": "Connoquenessing Borough",
     "county": "Butler County",
     "households_200k_plus_pct": 16.5,
     "households_200k_plus_moe": 8.2,
@@ -5869,7 +5869,7 @@
   },
   {
     "statewide_rank": 323,
-    "municipality": "New Britain",
+    "municipality": "New Britain Borough",
     "county": "Bucks County",
     "households_200k_plus_pct": 15.9,
     "households_200k_plus_moe": 4.4,
@@ -5905,7 +5905,7 @@
   },
   {
     "statewide_rank": 329,
-    "municipality": "Milford",
+    "municipality": "Milford Township",
     "county": "Pike County",
     "households_200k_plus_pct": 15.8,
     "households_200k_plus_moe": 5.8,
@@ -5923,7 +5923,7 @@
   },
   {
     "statewide_rank": 329,
-    "municipality": "Dallas",
+    "municipality": "Dallas Borough",
     "county": "Luzerne County",
     "households_200k_plus_pct": 15.8,
     "households_200k_plus_moe": 4.9,
@@ -6085,7 +6085,7 @@
   },
   {
     "statewide_rank": 338,
-    "municipality": "Honey Brook",
+    "municipality": "Honey Brook Township",
     "county": "Chester County",
     "households_200k_plus_pct": 15.5,
     "households_200k_plus_moe": 5.5,
@@ -6283,7 +6283,7 @@
   },
   {
     "statewide_rank": 344,
-    "municipality": "Strasburg",
+    "municipality": "Strasburg Township",
     "county": "Lancaster County",
     "households_200k_plus_pct": 15.3,
     "households_200k_plus_moe": 8.1,
@@ -6499,7 +6499,7 @@
   },
   {
     "statewide_rank": 359,
-    "municipality": "Meshoppen",
+    "municipality": "Meshoppen Township",
     "county": "Wyoming County",
     "households_200k_plus_pct": 15.1,
     "households_200k_plus_moe": 8.7,
@@ -7561,7 +7561,7 @@
   },
   {
     "statewide_rank": 421,
-    "municipality": "Muncy",
+    "municipality": "Muncy Township",
     "county": "Lycoming County",
     "households_200k_plus_pct": 13.5,
     "households_200k_plus_moe": 7.0,
@@ -7687,7 +7687,7 @@
   },
   {
     "statewide_rank": 428,
-    "municipality": "Shrewsbury",
+    "municipality": "Shrewsbury Borough",
     "county": "York County",
     "households_200k_plus_pct": 13.3,
     "households_200k_plus_moe": 5.1,
@@ -7705,7 +7705,7 @@
   },
   {
     "statewide_rank": 428,
-    "municipality": "Exeter",
+    "municipality": "Exeter Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 13.3,
     "households_200k_plus_moe": 9.8,
@@ -8245,7 +8245,7 @@
   },
   {
     "statewide_rank": 457,
-    "municipality": "Girard",
+    "municipality": "Girard Borough",
     "county": "Erie County",
     "households_200k_plus_pct": 12.8,
     "households_200k_plus_moe": 12.9,
@@ -8839,7 +8839,7 @@
   },
   {
     "statewide_rank": 482,
-    "municipality": "York",
+    "municipality": "York Township",
     "county": "York County",
     "households_200k_plus_pct": 12.3,
     "households_200k_plus_moe": 2.1,
@@ -9181,7 +9181,7 @@
   },
   {
     "statewide_rank": 510,
-    "municipality": "Wyalusing",
+    "municipality": "Wyalusing Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 12.0,
     "households_200k_plus_moe": 5.0,
@@ -9199,7 +9199,7 @@
   },
   {
     "statewide_rank": 510,
-    "municipality": "McKean",
+    "municipality": "McKean Township",
     "county": "Erie County",
     "households_200k_plus_pct": 12.0,
     "households_200k_plus_moe": 4.2,
@@ -9271,7 +9271,7 @@
   },
   {
     "statewide_rank": 514,
-    "municipality": "Honey Brook",
+    "municipality": "Honey Brook Borough",
     "county": "Chester County",
     "households_200k_plus_pct": 11.9,
     "households_200k_plus_moe": 7.4,
@@ -10153,7 +10153,7 @@
   },
   {
     "statewide_rank": 558,
-    "municipality": "Lancaster",
+    "municipality": "Lancaster Township",
     "county": "Lancaster County",
     "households_200k_plus_pct": 11.4,
     "households_200k_plus_moe": 3.1,
@@ -10567,7 +10567,7 @@
   },
   {
     "statewide_rank": 583,
-    "municipality": "Ligonier",
+    "municipality": "Ligonier Borough",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 11.1,
     "households_200k_plus_moe": 6.3,
@@ -10873,7 +10873,7 @@
   },
   {
     "statewide_rank": 601,
-    "municipality": "Pine Grove",
+    "municipality": "Pine Grove Borough",
     "county": "Schuylkill County",
     "households_200k_plus_pct": 10.8,
     "households_200k_plus_moe": 4.8,
@@ -10927,7 +10927,7 @@
   },
   {
     "statewide_rank": 601,
-    "municipality": "Burlington",
+    "municipality": "Burlington Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 10.8,
     "households_200k_plus_moe": 12.2,
@@ -11215,7 +11215,7 @@
   },
   {
     "statewide_rank": 619,
-    "municipality": "Ligonier",
+    "municipality": "Ligonier Township",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 10.6,
     "households_200k_plus_moe": 3.2,
@@ -11575,7 +11575,7 @@
   },
   {
     "statewide_rank": 639,
-    "municipality": "Ulysses",
+    "municipality": "Ulysses Township",
     "county": "Potter County",
     "households_200k_plus_pct": 10.4,
     "households_200k_plus_moe": 5.4,
@@ -11755,7 +11755,7 @@
   },
   {
     "statewide_rank": 649,
-    "municipality": "Mount Joy",
+    "municipality": "Mount Joy Township",
     "county": "Lancaster County",
     "households_200k_plus_pct": 10.3,
     "households_200k_plus_moe": 4.4,
@@ -11827,7 +11827,7 @@
   },
   {
     "statewide_rank": 649,
-    "municipality": "Shamokin",
+    "municipality": "Shamokin Township",
     "county": "Northumberland County",
     "households_200k_plus_pct": 10.3,
     "households_200k_plus_moe": 6.7,
@@ -12691,7 +12691,7 @@
   },
   {
     "statewide_rank": 696,
-    "municipality": "Nescopeck",
+    "municipality": "Nescopeck Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 9.7,
     "households_200k_plus_moe": 4.3,
@@ -12745,7 +12745,7 @@
   },
   {
     "statewide_rank": 707,
-    "municipality": "Beech Creek",
+    "municipality": "Beech Creek Township",
     "county": "Clinton County",
     "households_200k_plus_pct": 9.6,
     "households_200k_plus_moe": 7.5,
@@ -12817,7 +12817,7 @@
   },
   {
     "statewide_rank": 707,
-    "municipality": "Ephrata",
+    "municipality": "Ephrata Township",
     "county": "Lancaster County",
     "households_200k_plus_pct": 9.6,
     "households_200k_plus_moe": 3.6,
@@ -12907,7 +12907,7 @@
   },
   {
     "statewide_rank": 707,
-    "municipality": "Hatfield",
+    "municipality": "Hatfield Borough",
     "county": "Montgomery County",
     "households_200k_plus_pct": 9.6,
     "households_200k_plus_moe": 4.6,
@@ -13051,7 +13051,7 @@
   },
   {
     "statewide_rank": 720,
-    "municipality": "Milford",
+    "municipality": "Milford Borough",
     "county": "Pike County",
     "households_200k_plus_pct": 9.5,
     "households_200k_plus_moe": 5.1,
@@ -13177,7 +13177,7 @@
   },
   {
     "statewide_rank": 730,
-    "municipality": "Dover",
+    "municipality": "Dover Township",
     "county": "York County",
     "households_200k_plus_pct": 9.4,
     "households_200k_plus_moe": 3.1,
@@ -13501,7 +13501,7 @@
   },
   {
     "statewide_rank": 749,
-    "municipality": "Donegal",
+    "municipality": "Donegal Township",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 9.2,
     "households_200k_plus_moe": 5.0,
@@ -13753,7 +13753,7 @@
   },
   {
     "statewide_rank": 757,
-    "municipality": "Athens",
+    "municipality": "Athens Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 9.1,
     "households_200k_plus_moe": 3.8,
@@ -14527,7 +14527,7 @@
   },
   {
     "statewide_rank": 798,
-    "municipality": "Darlington",
+    "municipality": "Darlington Township",
     "county": "Beaver County",
     "households_200k_plus_pct": 8.8,
     "households_200k_plus_moe": 5.3,
@@ -14743,7 +14743,7 @@
   },
   {
     "statewide_rank": 818,
-    "municipality": "Sugar Grove",
+    "municipality": "Sugar Grove Borough",
     "county": "Warren County",
     "households_200k_plus_pct": 8.6,
     "households_200k_plus_moe": 7.4,
@@ -14761,7 +14761,7 @@
   },
   {
     "statewide_rank": 818,
-    "municipality": "Manheim",
+    "municipality": "Manheim Borough",
     "county": "Lancaster County",
     "households_200k_plus_pct": 8.6,
     "households_200k_plus_moe": 4.8,
@@ -14833,7 +14833,7 @@
   },
   {
     "statewide_rank": 818,
-    "municipality": "Waterford",
+    "municipality": "Waterford Township",
     "county": "Erie County",
     "households_200k_plus_pct": 8.6,
     "households_200k_plus_moe": 6.6,
@@ -15031,7 +15031,7 @@
   },
   {
     "statewide_rank": 829,
-    "municipality": "Bradford",
+    "municipality": "Bradford Township",
     "county": "McKean County",
     "households_200k_plus_pct": 8.5,
     "households_200k_plus_moe": 4.3,
@@ -15049,7 +15049,7 @@
   },
   {
     "statewide_rank": 829,
-    "municipality": "Elizabeth",
+    "municipality": "Elizabeth Township",
     "county": "Allegheny County",
     "households_200k_plus_pct": 8.5,
     "households_200k_plus_moe": 3.3,
@@ -15229,7 +15229,7 @@
   },
   {
     "statewide_rank": 842,
-    "municipality": "Jefferson",
+    "municipality": "Jefferson Township",
     "county": "Greene County",
     "households_200k_plus_pct": 8.4,
     "households_200k_plus_moe": 4.6,
@@ -15445,7 +15445,7 @@
   },
   {
     "statewide_rank": 856,
-    "municipality": "Tunkhannock",
+    "municipality": "Tunkhannock Township",
     "county": "Wyoming County",
     "households_200k_plus_pct": 8.3,
     "households_200k_plus_moe": 3.9,
@@ -15607,7 +15607,7 @@
   },
   {
     "statewide_rank": 866,
-    "municipality": "Kingston",
+    "municipality": "Kingston Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 8.2,
     "households_200k_plus_moe": 3.8,
@@ -15841,7 +15841,7 @@
   },
   {
     "statewide_rank": 875,
-    "municipality": "Bristol",
+    "municipality": "Bristol Township",
     "county": "Bucks County",
     "households_200k_plus_pct": 8.1,
     "households_200k_plus_moe": 1.7,
@@ -16147,7 +16147,7 @@
   },
   {
     "statewide_rank": 888,
-    "municipality": "Slippery Rock",
+    "municipality": "Slippery Rock Borough",
     "county": "Butler County",
     "households_200k_plus_pct": 8.0,
     "households_200k_plus_moe": 5.8,
@@ -16183,7 +16183,7 @@
   },
   {
     "statewide_rank": 888,
-    "municipality": "Baldwin",
+    "municipality": "Baldwin Township",
     "county": "Allegheny County",
     "households_200k_plus_pct": 8.0,
     "households_200k_plus_moe": 4.4,
@@ -16507,7 +16507,7 @@
   },
   {
     "statewide_rank": 915,
-    "municipality": "Windsor",
+    "municipality": "Windsor Township",
     "county": "York County",
     "households_200k_plus_pct": 7.8,
     "households_200k_plus_moe": 2.6,
@@ -16525,7 +16525,7 @@
   },
   {
     "statewide_rank": 915,
-    "municipality": "Pittston",
+    "municipality": "Pittston Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 7.8,
     "households_200k_plus_moe": 2.7,
@@ -16741,7 +16741,7 @@
   },
   {
     "statewide_rank": 924,
-    "municipality": "North East",
+    "municipality": "North East Township",
     "county": "Erie County",
     "households_200k_plus_pct": 7.7,
     "households_200k_plus_moe": 3.3,
@@ -16777,7 +16777,7 @@
   },
   {
     "statewide_rank": 924,
-    "municipality": "Liverpool",
+    "municipality": "Liverpool Township",
     "county": "Perry County",
     "households_200k_plus_pct": 7.7,
     "households_200k_plus_moe": 3.7,
@@ -17209,7 +17209,7 @@
   },
   {
     "statewide_rank": 950,
-    "municipality": "Bethlehem",
+    "municipality": "Bethlehem City",
     "county": "Northampton County",
     "households_200k_plus_pct": 7.5,
     "households_200k_plus_moe": 1.1,
@@ -17299,7 +17299,7 @@
   },
   {
     "statewide_rank": 950,
-    "municipality": "Gallitzin",
+    "municipality": "Gallitzin Township",
     "county": "Cambria County",
     "households_200k_plus_pct": 7.5,
     "households_200k_plus_moe": 3.6,
@@ -17389,7 +17389,7 @@
   },
   {
     "statewide_rank": 966,
-    "municipality": "Conyngham",
+    "municipality": "Conyngham Borough",
     "county": "Luzerne County",
     "households_200k_plus_pct": 7.4,
     "households_200k_plus_moe": 4.9,
@@ -17425,7 +17425,7 @@
   },
   {
     "statewide_rank": 966,
-    "municipality": "Butler",
+    "municipality": "Butler Township",
     "county": "Butler County",
     "households_200k_plus_pct": 7.4,
     "households_200k_plus_moe": 2.2,
@@ -17443,7 +17443,7 @@
   },
   {
     "statewide_rank": 966,
-    "municipality": "Baldwin",
+    "municipality": "Baldwin Borough",
     "county": "Allegheny County",
     "households_200k_plus_pct": 7.4,
     "households_200k_plus_moe": 1.8,
@@ -17605,7 +17605,7 @@
   },
   {
     "statewide_rank": 966,
-    "municipality": "Tyrone",
+    "municipality": "Tyrone Township",
     "county": "Blair County",
     "households_200k_plus_pct": 7.4,
     "households_200k_plus_moe": 3.7,
@@ -17929,7 +17929,7 @@
   },
   {
     "statewide_rank": 989,
-    "municipality": "Springdale",
+    "municipality": "Springdale Borough",
     "county": "Allegheny County",
     "households_200k_plus_pct": 7.3,
     "households_200k_plus_moe": 3.4,
@@ -18127,7 +18127,7 @@
   },
   {
     "statewide_rank": 1002,
-    "municipality": "Venango",
+    "municipality": "Venango Township",
     "county": "Crawford County",
     "households_200k_plus_pct": 7.2,
     "households_200k_plus_moe": 3.5,
@@ -18343,7 +18343,7 @@
   },
   {
     "statewide_rank": 1017,
-    "municipality": "Kingston",
+    "municipality": "Kingston Borough",
     "county": "Luzerne County",
     "households_200k_plus_pct": 7.1,
     "households_200k_plus_moe": 2.1,
@@ -18469,7 +18469,7 @@
   },
   {
     "statewide_rank": 1017,
-    "municipality": "Union",
+    "municipality": "Union Township",
     "county": "Erie County",
     "households_200k_plus_pct": 7.1,
     "households_200k_plus_moe": 4.3,
@@ -18847,7 +18847,7 @@
   },
   {
     "statewide_rank": 1033,
-    "municipality": "New Milford",
+    "municipality": "New Milford Borough",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 7.0,
     "households_200k_plus_moe": 4.7,
@@ -18865,7 +18865,7 @@
   },
   {
     "statewide_rank": 1033,
-    "municipality": "Darby",
+    "municipality": "Darby Township",
     "county": "Delaware County",
     "households_200k_plus_pct": 7.0,
     "households_200k_plus_moe": 3.3,
@@ -18955,7 +18955,7 @@
   },
   {
     "statewide_rank": 1054,
-    "municipality": "Briar Creek",
+    "municipality": "Briar Creek Township",
     "county": "Columbia County",
     "households_200k_plus_pct": 6.9,
     "households_200k_plus_moe": 4.1,
@@ -19045,7 +19045,7 @@
   },
   {
     "statewide_rank": 1054,
-    "municipality": "Lykens",
+    "municipality": "Lykens Township",
     "county": "Dauphin County",
     "households_200k_plus_pct": 6.9,
     "households_200k_plus_moe": 3.4,
@@ -19063,7 +19063,7 @@
   },
   {
     "statewide_rank": 1054,
-    "municipality": "Oakland",
+    "municipality": "Oakland Borough",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 6.9,
     "households_200k_plus_moe": 5.4,
@@ -19081,7 +19081,7 @@
   },
   {
     "statewide_rank": 1054,
-    "municipality": "Mount Joy",
+    "municipality": "Mount Joy Borough",
     "county": "Lancaster County",
     "households_200k_plus_pct": 6.9,
     "households_200k_plus_moe": 3.2,
@@ -19135,7 +19135,7 @@
   },
   {
     "statewide_rank": 1054,
-    "municipality": "Great Bend",
+    "municipality": "Great Bend Township",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 6.9,
     "households_200k_plus_moe": 2.9,
@@ -19351,7 +19351,7 @@
   },
   {
     "statewide_rank": 1069,
-    "municipality": "Connoquenessing",
+    "municipality": "Connoquenessing Township",
     "county": "Butler County",
     "households_200k_plus_pct": 6.8,
     "households_200k_plus_moe": 4.5,
@@ -19549,7 +19549,7 @@
   },
   {
     "statewide_rank": 1082,
-    "municipality": "Kittanning",
+    "municipality": "Kittanning Borough",
     "county": "Armstrong County",
     "households_200k_plus_pct": 6.7,
     "households_200k_plus_moe": 3.5,
@@ -19585,7 +19585,7 @@
   },
   {
     "statewide_rank": 1082,
-    "municipality": "Tunkhannock",
+    "municipality": "Tunkhannock Borough",
     "county": "Wyoming County",
     "households_200k_plus_pct": 6.7,
     "households_200k_plus_moe": 3.7,
@@ -19801,7 +19801,7 @@
   },
   {
     "statewide_rank": 1101,
-    "municipality": "Dover",
+    "municipality": "Dover Borough",
     "county": "York County",
     "households_200k_plus_pct": 6.6,
     "households_200k_plus_moe": 4.9,
@@ -20071,7 +20071,7 @@
   },
   {
     "statewide_rank": 1114,
-    "municipality": "Liverpool",
+    "municipality": "Liverpool Borough",
     "county": "Perry County",
     "households_200k_plus_pct": 6.5,
     "households_200k_plus_moe": 3.5,
@@ -20107,7 +20107,7 @@
   },
   {
     "statewide_rank": 1114,
-    "municipality": "Knox",
+    "municipality": "Knox Township",
     "county": "Clarion County",
     "households_200k_plus_pct": 6.5,
     "households_200k_plus_moe": 3.3,
@@ -20251,7 +20251,7 @@
   },
   {
     "statewide_rank": 1114,
-    "municipality": "Fairview",
+    "municipality": "Fairview Township",
     "county": "Butler County",
     "households_200k_plus_pct": 6.5,
     "households_200k_plus_moe": 2.6,
@@ -20305,7 +20305,7 @@
   },
   {
     "statewide_rank": 1114,
-    "municipality": "Thompson",
+    "municipality": "Thompson Borough",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 6.5,
     "households_200k_plus_moe": 7.5,
@@ -20341,7 +20341,7 @@
   },
   {
     "statewide_rank": 1114,
-    "municipality": "Rome",
+    "municipality": "Rome Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 6.5,
     "households_200k_plus_moe": 4.9,
@@ -20359,7 +20359,7 @@
   },
   {
     "statewide_rank": 1114,
-    "municipality": "Benton",
+    "municipality": "Benton Township",
     "county": "Columbia County",
     "households_200k_plus_pct": 6.5,
     "households_200k_plus_moe": 3.9,
@@ -20611,7 +20611,7 @@
   },
   {
     "statewide_rank": 1133,
-    "municipality": "Bristol",
+    "municipality": "Bristol Borough",
     "county": "Bucks County",
     "households_200k_plus_pct": 6.4,
     "households_200k_plus_moe": 2.3,
@@ -20971,7 +20971,7 @@
   },
   {
     "statewide_rank": 1166,
-    "municipality": "Tremont",
+    "municipality": "Tremont Borough",
     "county": "Schuylkill County",
     "households_200k_plus_pct": 6.2,
     "households_200k_plus_moe": 3.6,
@@ -21115,7 +21115,7 @@
   },
   {
     "statewide_rank": 1166,
-    "municipality": "Girard",
+    "municipality": "Girard Township",
     "county": "Erie County",
     "households_200k_plus_pct": 6.2,
     "households_200k_plus_moe": 4.1,
@@ -21259,7 +21259,7 @@
   },
   {
     "statewide_rank": 1182,
-    "municipality": "Woodcock",
+    "municipality": "Woodcock Township",
     "county": "Crawford County",
     "households_200k_plus_pct": 6.1,
     "households_200k_plus_moe": 2.8,
@@ -21655,7 +21655,7 @@
   },
   {
     "statewide_rank": 1194,
-    "municipality": "Fairview",
+    "municipality": "Fairview Borough",
     "county": "Butler County",
     "households_200k_plus_pct": 6.0,
     "households_200k_plus_moe": 5.8,
@@ -21997,7 +21997,7 @@
   },
   {
     "statewide_rank": 1211,
-    "municipality": "Addison",
+    "municipality": "Addison Township",
     "county": "Somerset County",
     "households_200k_plus_pct": 5.9,
     "households_200k_plus_moe": 3.4,
@@ -22105,7 +22105,7 @@
   },
   {
     "statewide_rank": 1224,
-    "municipality": "Exeter",
+    "municipality": "Exeter Borough",
     "county": "Luzerne County",
     "households_200k_plus_pct": 5.8,
     "households_200k_plus_moe": 3.6,
@@ -22231,7 +22231,7 @@
   },
   {
     "statewide_rank": 1224,
-    "municipality": "Sandy Lake",
+    "municipality": "Sandy Lake Township",
     "county": "Mercer County",
     "households_200k_plus_pct": 5.8,
     "households_200k_plus_moe": 2.7,
@@ -22555,7 +22555,7 @@
   },
   {
     "statewide_rank": 1252,
-    "municipality": "Hopewell",
+    "municipality": "Hopewell Township",
     "county": "Bedford County",
     "households_200k_plus_pct": 5.7,
     "households_200k_plus_moe": 4.0,
@@ -22663,7 +22663,7 @@
   },
   {
     "statewide_rank": 1252,
-    "municipality": "Strasburg",
+    "municipality": "Strasburg Borough",
     "county": "Lancaster County",
     "households_200k_plus_pct": 5.7,
     "households_200k_plus_moe": 3.9,
@@ -22951,7 +22951,7 @@
   },
   {
     "statewide_rank": 1265,
-    "municipality": "Thompson",
+    "municipality": "Thompson Township",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 5.6,
     "households_200k_plus_moe": 3.3,
@@ -23275,7 +23275,7 @@
   },
   {
     "statewide_rank": 1289,
-    "municipality": "Slippery Rock",
+    "municipality": "Slippery Rock Township",
     "county": "Butler County",
     "households_200k_plus_pct": 5.5,
     "households_200k_plus_moe": 3.9,
@@ -23473,7 +23473,7 @@
   },
   {
     "statewide_rank": 1289,
-    "municipality": "Somerset",
+    "municipality": "Somerset Borough",
     "county": "Somerset County",
     "households_200k_plus_pct": 5.5,
     "households_200k_plus_moe": 2.9,
@@ -23725,7 +23725,7 @@
   },
   {
     "statewide_rank": 1317,
-    "municipality": "Ridgway",
+    "municipality": "Ridgway Township",
     "county": "Elk County",
     "households_200k_plus_pct": 5.4,
     "households_200k_plus_moe": 3.5,
@@ -23743,7 +23743,7 @@
   },
   {
     "statewide_rank": 1317,
-    "municipality": "Towanda",
+    "municipality": "Towanda Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 5.4,
     "households_200k_plus_moe": 4.6,
@@ -23923,7 +23923,7 @@
   },
   {
     "statewide_rank": 1317,
-    "municipality": "Mount Carmel",
+    "municipality": "Mount Carmel Township",
     "county": "Northumberland County",
     "households_200k_plus_pct": 5.4,
     "households_200k_plus_moe": 3.0,
@@ -23941,7 +23941,7 @@
   },
   {
     "statewide_rank": 1317,
-    "municipality": "Eldred",
+    "municipality": "Eldred Borough",
     "county": "McKean County",
     "households_200k_plus_pct": 5.4,
     "households_200k_plus_moe": 4.5,
@@ -23959,7 +23959,7 @@
   },
   {
     "statewide_rank": 1317,
-    "municipality": "Rome",
+    "municipality": "Rome Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 5.4,
     "households_200k_plus_moe": 7.5,
@@ -24499,7 +24499,7 @@
   },
   {
     "statewide_rank": 1355,
-    "municipality": "New Milford",
+    "municipality": "New Milford Township",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 5.2,
     "households_200k_plus_moe": 2.9,
@@ -24877,7 +24877,7 @@
   },
   {
     "statewide_rank": 1375,
-    "municipality": "Mount Pleasant",
+    "municipality": "Mount Pleasant Township",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 5.1,
     "households_200k_plus_moe": 2.2,
@@ -25057,7 +25057,7 @@
   },
   {
     "statewide_rank": 1375,
-    "municipality": "Eldred",
+    "municipality": "Eldred Township",
     "county": "McKean County",
     "households_200k_plus_pct": 5.1,
     "households_200k_plus_moe": 2.8,
@@ -25093,7 +25093,7 @@
   },
   {
     "statewide_rank": 1375,
-    "municipality": "Windsor",
+    "municipality": "Windsor Borough",
     "county": "York County",
     "households_200k_plus_pct": 5.1,
     "households_200k_plus_moe": 4.0,
@@ -25183,7 +25183,7 @@
   },
   {
     "statewide_rank": 1399,
-    "municipality": "Clarion",
+    "municipality": "Clarion Borough",
     "county": "Clarion County",
     "households_200k_plus_pct": 5.0,
     "households_200k_plus_moe": 4.1,
@@ -25219,7 +25219,7 @@
   },
   {
     "statewide_rank": 1399,
-    "municipality": "Rochester",
+    "municipality": "Rochester Township",
     "county": "Beaver County",
     "households_200k_plus_pct": 5.0,
     "households_200k_plus_moe": 3.4,
@@ -25237,7 +25237,7 @@
   },
   {
     "statewide_rank": 1399,
-    "municipality": "Pine Grove",
+    "municipality": "Pine Grove Township",
     "county": "Schuylkill County",
     "households_200k_plus_pct": 5.0,
     "households_200k_plus_moe": 3.4,
@@ -25453,7 +25453,7 @@
   },
   {
     "statewide_rank": 1399,
-    "municipality": "Waterford",
+    "municipality": "Waterford Borough",
     "county": "Erie County",
     "households_200k_plus_pct": 5.0,
     "households_200k_plus_moe": 4.8,
@@ -25885,7 +25885,7 @@
   },
   {
     "statewide_rank": 1434,
-    "municipality": "Lancaster",
+    "municipality": "Lancaster City",
     "county": "Lancaster County",
     "households_200k_plus_pct": 4.9,
     "households_200k_plus_moe": 0.8,
@@ -26263,7 +26263,7 @@
   },
   {
     "statewide_rank": 1456,
-    "municipality": "Conyngham",
+    "municipality": "Conyngham Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 4.8,
     "households_200k_plus_moe": 2.5,
@@ -26551,7 +26551,7 @@
   },
   {
     "statewide_rank": 1456,
-    "municipality": "Somerset",
+    "municipality": "Somerset Township",
     "county": "Somerset County",
     "households_200k_plus_pct": 4.8,
     "households_200k_plus_moe": 3.4,
@@ -26713,7 +26713,7 @@
   },
   {
     "statewide_rank": 1480,
-    "municipality": "Troy",
+    "municipality": "Troy Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 4.7,
     "households_200k_plus_moe": 3.4,
@@ -27199,7 +27199,7 @@
   },
   {
     "statewide_rank": 1505,
-    "municipality": "Butler",
+    "municipality": "Butler City",
     "county": "Butler County",
     "households_200k_plus_pct": 4.6,
     "households_200k_plus_moe": 2.4,
@@ -27217,7 +27217,7 @@
   },
   {
     "statewide_rank": 1505,
-    "municipality": "Cresson",
+    "municipality": "Cresson Township",
     "county": "Cambria County",
     "households_200k_plus_pct": 4.6,
     "households_200k_plus_moe": 3.1,
@@ -27379,7 +27379,7 @@
   },
   {
     "statewide_rank": 1505,
-    "municipality": "Connellsville",
+    "municipality": "Connellsville City",
     "county": "Fayette County",
     "households_200k_plus_pct": 4.6,
     "households_200k_plus_moe": 2.5,
@@ -27523,7 +27523,7 @@
   },
   {
     "statewide_rank": 1525,
-    "municipality": "Wyalusing",
+    "municipality": "Wyalusing Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 4.5,
     "households_200k_plus_moe": 4.6,
@@ -27667,7 +27667,7 @@
   },
   {
     "statewide_rank": 1525,
-    "municipality": "Oakland",
+    "municipality": "Oakland Township",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 4.5,
     "households_200k_plus_moe": 2.8,
@@ -28171,7 +28171,7 @@
   },
   {
     "statewide_rank": 1547,
-    "municipality": "Springdale",
+    "municipality": "Springdale Township",
     "county": "Allegheny County",
     "households_200k_plus_pct": 4.4,
     "households_200k_plus_moe": 2.0,
@@ -28441,7 +28441,7 @@
   },
   {
     "statewide_rank": 1572,
-    "municipality": "Kittanning",
+    "municipality": "Kittanning Township",
     "county": "Armstrong County",
     "households_200k_plus_pct": 4.3,
     "households_200k_plus_moe": 2.5,
@@ -28567,7 +28567,7 @@
   },
   {
     "statewide_rank": 1572,
-    "municipality": "Elizabeth",
+    "municipality": "Elizabeth Borough",
     "county": "Allegheny County",
     "households_200k_plus_pct": 4.3,
     "households_200k_plus_moe": 2.5,
@@ -28675,7 +28675,7 @@
   },
   {
     "statewide_rank": 1594,
-    "municipality": "Bedford",
+    "municipality": "Bedford Township",
     "county": "Bedford County",
     "households_200k_plus_pct": 4.2,
     "households_200k_plus_moe": 3.0,
@@ -28783,7 +28783,7 @@
   },
   {
     "statewide_rank": 1594,
-    "municipality": "Pittston",
+    "municipality": "Pittston City",
     "county": "Luzerne County",
     "households_200k_plus_pct": 4.2,
     "households_200k_plus_moe": 1.7,
@@ -29125,7 +29125,7 @@
   },
   {
     "statewide_rank": 1619,
-    "municipality": "Nicholson",
+    "municipality": "Nicholson Township",
     "county": "Wyoming County",
     "households_200k_plus_pct": 4.1,
     "households_200k_plus_moe": 2.3,
@@ -29251,7 +29251,7 @@
   },
   {
     "statewide_rank": 1619,
-    "municipality": "Halifax",
+    "municipality": "Halifax Township",
     "county": "Dauphin County",
     "households_200k_plus_pct": 4.1,
     "households_200k_plus_moe": 2.3,
@@ -29467,7 +29467,7 @@
   },
   {
     "statewide_rank": 1619,
-    "municipality": "Troy",
+    "municipality": "Troy Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 4.1,
     "households_200k_plus_moe": 2.6,
@@ -29917,7 +29917,7 @@
   },
   {
     "statewide_rank": 1643,
-    "municipality": "Howard",
+    "municipality": "Howard Township",
     "county": "Centre County",
     "households_200k_plus_pct": 4.0,
     "households_200k_plus_moe": 4.0,
@@ -30277,7 +30277,7 @@
   },
   {
     "statewide_rank": 1669,
-    "municipality": "Dunbar",
+    "municipality": "Dunbar Township",
     "county": "Fayette County",
     "households_200k_plus_pct": 3.9,
     "households_200k_plus_moe": 2.5,
@@ -30493,7 +30493,7 @@
   },
   {
     "statewide_rank": 1669,
-    "municipality": "Athens",
+    "municipality": "Athens Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 3.9,
     "households_200k_plus_moe": 2.7,
@@ -30511,7 +30511,7 @@
   },
   {
     "statewide_rank": 1696,
-    "municipality": "Carbondale",
+    "municipality": "Carbondale Township",
     "county": "Lackawanna County",
     "households_200k_plus_pct": 3.8,
     "households_200k_plus_moe": 3.1,
@@ -30655,7 +30655,7 @@
   },
   {
     "statewide_rank": 1696,
-    "municipality": "Chester",
+    "municipality": "Chester Township",
     "county": "Delaware County",
     "households_200k_plus_pct": 3.8,
     "households_200k_plus_moe": 3.9,
@@ -30727,7 +30727,7 @@
   },
   {
     "statewide_rank": 1696,
-    "municipality": "Summerhill",
+    "municipality": "Summerhill Township",
     "county": "Cambria County",
     "households_200k_plus_pct": 3.8,
     "households_200k_plus_moe": 2.4,
@@ -30817,7 +30817,7 @@
   },
   {
     "statewide_rank": 1696,
-    "municipality": "Portage",
+    "municipality": "Portage Township",
     "county": "Cambria County",
     "households_200k_plus_pct": 3.8,
     "households_200k_plus_moe": 2.8,
@@ -30925,7 +30925,7 @@
   },
   {
     "statewide_rank": 1719,
-    "municipality": "Derry",
+    "municipality": "Derry Township",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 3.7,
     "households_200k_plus_moe": 1.7,
@@ -30979,7 +30979,7 @@
   },
   {
     "statewide_rank": 1719,
-    "municipality": "Tyrone",
+    "municipality": "Tyrone Borough",
     "county": "Blair County",
     "households_200k_plus_pct": 3.7,
     "households_200k_plus_moe": 2.6,
@@ -31213,7 +31213,7 @@
   },
   {
     "statewide_rank": 1719,
-    "municipality": "Liberty",
+    "municipality": "Liberty Borough",
     "county": "Tioga County",
     "households_200k_plus_pct": 3.7,
     "households_200k_plus_moe": 4.2,
@@ -31303,7 +31303,7 @@
   },
   {
     "statewide_rank": 1736,
-    "municipality": "Brownsville",
+    "municipality": "Brownsville Township",
     "county": "Fayette County",
     "households_200k_plus_pct": 3.6,
     "households_200k_plus_moe": 2.7,
@@ -31483,7 +31483,7 @@
   },
   {
     "statewide_rank": 1736,
-    "municipality": "Tioga",
+    "municipality": "Tioga Borough",
     "county": "Tioga County",
     "households_200k_plus_pct": 3.6,
     "households_200k_plus_moe": 2.4,
@@ -31555,7 +31555,7 @@
   },
   {
     "statewide_rank": 1736,
-    "municipality": "Bradford",
+    "municipality": "Bradford City",
     "county": "McKean County",
     "households_200k_plus_pct": 3.6,
     "households_200k_plus_moe": 1.9,
@@ -31609,7 +31609,7 @@
   },
   {
     "statewide_rank": 1736,
-    "municipality": "Wilkes-Barre",
+    "municipality": "Wilkes-Barre City",
     "county": "Luzerne County",
     "households_200k_plus_pct": 3.6,
     "households_200k_plus_moe": 1.1,
@@ -31663,7 +31663,7 @@
   },
   {
     "statewide_rank": 1736,
-    "municipality": "Plymouth",
+    "municipality": "Plymouth Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 3.6,
     "households_200k_plus_moe": 2.4,
@@ -31735,7 +31735,7 @@
   },
   {
     "statewide_rank": 1736,
-    "municipality": "Canton",
+    "municipality": "Canton Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 3.6,
     "households_200k_plus_moe": 1.9,
@@ -31789,7 +31789,7 @@
   },
   {
     "statewide_rank": 1765,
-    "municipality": "Bedford",
+    "municipality": "Bedford Borough",
     "county": "Bedford County",
     "households_200k_plus_pct": 3.5,
     "households_200k_plus_moe": 2.4,
@@ -31807,7 +31807,7 @@
   },
   {
     "statewide_rank": 1765,
-    "municipality": "Manchester",
+    "municipality": "Manchester Borough",
     "county": "York County",
     "households_200k_plus_pct": 3.5,
     "households_200k_plus_moe": 3.3,
@@ -31915,7 +31915,7 @@
   },
   {
     "statewide_rank": 1765,
-    "municipality": "Liberty",
+    "municipality": "Liberty Township",
     "county": "Tioga County",
     "households_200k_plus_pct": 3.5,
     "households_200k_plus_moe": 2.3,
@@ -32653,7 +32653,7 @@
   },
   {
     "statewide_rank": 1809,
-    "municipality": "Ephrata",
+    "municipality": "Ephrata Borough",
     "county": "Lancaster County",
     "households_200k_plus_pct": 3.3,
     "households_200k_plus_moe": 1.4,
@@ -32671,7 +32671,7 @@
   },
   {
     "statewide_rank": 1809,
-    "municipality": "Muncy",
+    "municipality": "Muncy Borough",
     "county": "Lycoming County",
     "households_200k_plus_pct": 3.3,
     "households_200k_plus_moe": 1.9,
@@ -33067,7 +33067,7 @@
   },
   {
     "statewide_rank": 1835,
-    "municipality": "Nescopeck",
+    "municipality": "Nescopeck Borough",
     "county": "Luzerne County",
     "households_200k_plus_pct": 3.2,
     "households_200k_plus_moe": 2.1,
@@ -33103,7 +33103,7 @@
   },
   {
     "statewide_rank": 1835,
-    "municipality": "Beech Creek",
+    "municipality": "Beech Creek Borough",
     "county": "Clinton County",
     "households_200k_plus_pct": 3.2,
     "households_200k_plus_moe": 2.2,
@@ -33265,7 +33265,7 @@
   },
   {
     "statewide_rank": 1835,
-    "municipality": "Halifax",
+    "municipality": "Halifax Borough",
     "county": "Dauphin County",
     "households_200k_plus_pct": 3.2,
     "households_200k_plus_moe": 2.9,
@@ -33355,7 +33355,7 @@
   },
   {
     "statewide_rank": 1835,
-    "municipality": "Laporte",
+    "municipality": "Laporte Township",
     "county": "Sullivan County",
     "households_200k_plus_pct": 3.2,
     "households_200k_plus_moe": 2.1,
@@ -33499,7 +33499,7 @@
   },
   {
     "statewide_rank": 1862,
-    "municipality": "Portage",
+    "municipality": "Portage Borough",
     "county": "Cambria County",
     "households_200k_plus_pct": 3.1,
     "households_200k_plus_moe": 2.2,
@@ -33625,7 +33625,7 @@
   },
   {
     "statewide_rank": 1862,
-    "municipality": "Canton",
+    "municipality": "Canton Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 3.1,
     "households_200k_plus_moe": 2.8,
@@ -33787,7 +33787,7 @@
   },
   {
     "statewide_rank": 1862,
-    "municipality": "McKean",
+    "municipality": "McKean Borough",
     "county": "Erie County",
     "households_200k_plus_pct": 3.1,
     "households_200k_plus_moe": 3.8,
@@ -33913,7 +33913,7 @@
   },
   {
     "statewide_rank": 1884,
-    "municipality": "Meshoppen",
+    "municipality": "Meshoppen Borough",
     "county": "Wyoming County",
     "households_200k_plus_pct": 3.0,
     "households_200k_plus_moe": 4.3,
@@ -34669,7 +34669,7 @@
   },
   {
     "statewide_rank": 1915,
-    "municipality": "Westfield",
+    "municipality": "Westfield Borough",
     "county": "Tioga County",
     "households_200k_plus_pct": 2.9,
     "households_200k_plus_moe": 1.8,
@@ -34723,7 +34723,7 @@
   },
   {
     "statewide_rank": 1929,
-    "municipality": "Paint",
+    "municipality": "Paint Township",
     "county": "Somerset County",
     "households_200k_plus_pct": 2.8,
     "households_200k_plus_moe": 2.4,
@@ -34831,7 +34831,7 @@
   },
   {
     "statewide_rank": 1929,
-    "municipality": "Tioga",
+    "municipality": "Tioga Township",
     "county": "Tioga County",
     "households_200k_plus_pct": 2.8,
     "households_200k_plus_moe": 3.6,
@@ -35065,7 +35065,7 @@
   },
   {
     "statewide_rank": 1946,
-    "municipality": "Catawissa",
+    "municipality": "Catawissa Township",
     "county": "Columbia County",
     "households_200k_plus_pct": 2.7,
     "households_200k_plus_moe": 2.1,
@@ -35263,7 +35263,7 @@
   },
   {
     "statewide_rank": 1946,
-    "municipality": "Ulysses",
+    "municipality": "Ulysses Borough",
     "county": "Potter County",
     "households_200k_plus_pct": 2.7,
     "households_200k_plus_moe": 3.7,
@@ -35749,7 +35749,7 @@
   },
   {
     "statewide_rank": 1972,
-    "municipality": "Catawissa",
+    "municipality": "Catawissa Borough",
     "county": "Columbia County",
     "households_200k_plus_pct": 2.6,
     "households_200k_plus_moe": 2.3,
@@ -35821,7 +35821,7 @@
   },
   {
     "statewide_rank": 1972,
-    "municipality": "Howard",
+    "municipality": "Howard Borough",
     "county": "Centre County",
     "households_200k_plus_pct": 2.6,
     "households_200k_plus_moe": 4.0,
@@ -35875,7 +35875,7 @@
   },
   {
     "statewide_rank": 1992,
-    "municipality": "Mount Pleasant",
+    "municipality": "Mount Pleasant Borough",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 2.5,
     "households_200k_plus_moe": 2.0,
@@ -35893,7 +35893,7 @@
   },
   {
     "statewide_rank": 1992,
-    "municipality": "Monroe",
+    "municipality": "Monroe Township",
     "county": "Bradford County",
     "households_200k_plus_pct": 2.5,
     "households_200k_plus_moe": 2.7,
@@ -35911,7 +35911,7 @@
   },
   {
     "statewide_rank": 1992,
-    "municipality": "Gallitzin",
+    "municipality": "Gallitzin Borough",
     "county": "Cambria County",
     "households_200k_plus_pct": 2.5,
     "households_200k_plus_moe": 1.6,
@@ -36451,7 +36451,7 @@
   },
   {
     "statewide_rank": 2007,
-    "municipality": "Shippensburg",
+    "municipality": "Shippensburg Township",
     "county": "Cumberland County",
     "households_200k_plus_pct": 2.4,
     "households_200k_plus_moe": 2.1,
@@ -36595,7 +36595,7 @@
   },
   {
     "statewide_rank": 2007,
-    "municipality": "Chester",
+    "municipality": "Chester City",
     "county": "Delaware County",
     "households_200k_plus_pct": 2.4,
     "households_200k_plus_moe": 1.2,
@@ -37009,7 +37009,7 @@
   },
   {
     "statewide_rank": 2040,
-    "municipality": "Donegal",
+    "municipality": "Donegal Borough",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 2.3,
     "households_200k_plus_moe": 7.5,
@@ -37027,7 +37027,7 @@
   },
   {
     "statewide_rank": 2040,
-    "municipality": "North East",
+    "municipality": "North East Borough",
     "county": "Erie County",
     "households_200k_plus_pct": 2.3,
     "households_200k_plus_moe": 1.8,
@@ -37099,7 +37099,7 @@
   },
   {
     "statewide_rank": 2040,
-    "municipality": "Woodbury",
+    "municipality": "Woodbury Township",
     "county": "Bedford County",
     "households_200k_plus_pct": 2.3,
     "households_200k_plus_moe": 2.1,
@@ -37333,7 +37333,7 @@
   },
   {
     "statewide_rank": 2063,
-    "municipality": "Derry",
+    "municipality": "Derry Borough",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 2.2,
     "households_200k_plus_moe": 1.8,
@@ -37369,7 +37369,7 @@
   },
   {
     "statewide_rank": 2063,
-    "municipality": "Cresson",
+    "municipality": "Cresson Borough",
     "county": "Cambria County",
     "households_200k_plus_pct": 2.2,
     "households_200k_plus_moe": 1.8,
@@ -37441,7 +37441,7 @@
   },
   {
     "statewide_rank": 2063,
-    "municipality": "Clarion",
+    "municipality": "Clarion Township",
     "county": "Clarion County",
     "households_200k_plus_pct": 2.2,
     "households_200k_plus_moe": 2.4,
@@ -37675,7 +37675,7 @@
   },
   {
     "statewide_rank": 2083,
-    "municipality": "York",
+    "municipality": "York City",
     "county": "York County",
     "households_200k_plus_pct": 2.1,
     "households_200k_plus_moe": 0.7,
@@ -37855,7 +37855,7 @@
   },
   {
     "statewide_rank": 2083,
-    "municipality": "Briar Creek",
+    "municipality": "Briar Creek Borough",
     "county": "Columbia County",
     "households_200k_plus_pct": 2.1,
     "households_200k_plus_moe": 2.6,
@@ -37909,7 +37909,7 @@
   },
   {
     "statewide_rank": 2107,
-    "municipality": "Great Bend",
+    "municipality": "Great Bend Borough",
     "county": "Susquehanna County",
     "households_200k_plus_pct": 2.0,
     "households_200k_plus_moe": 1.7,
@@ -37927,7 +37927,7 @@
   },
   {
     "statewide_rank": 2107,
-    "municipality": "Knox",
+    "municipality": "Knox Borough",
     "county": "Clarion County",
     "households_200k_plus_pct": 2.0,
     "households_200k_plus_moe": 1.8,
@@ -38485,7 +38485,7 @@
   },
   {
     "statewide_rank": 2132,
-    "municipality": "Shamokin",
+    "municipality": "Shamokin City",
     "county": "Northumberland County",
     "households_200k_plus_pct": 1.9,
     "households_200k_plus_moe": 1.6,
@@ -38737,7 +38737,7 @@
   },
   {
     "statewide_rank": 2132,
-    "municipality": "Snow Shoe",
+    "municipality": "Snow Shoe Township",
     "county": "Centre County",
     "households_200k_plus_pct": 1.9,
     "households_200k_plus_moe": 1.2,
@@ -38755,7 +38755,7 @@
   },
   {
     "statewide_rank": 2132,
-    "municipality": "Lykens",
+    "municipality": "Lykens Borough",
     "county": "Dauphin County",
     "households_200k_plus_pct": 1.9,
     "households_200k_plus_moe": 1.7,
@@ -38773,7 +38773,7 @@
   },
   {
     "statewide_rank": 2132,
-    "municipality": "Jefferson",
+    "municipality": "Jefferson Borough",
     "county": "Greene County",
     "households_200k_plus_pct": 1.9,
     "households_200k_plus_moe": 3.1,
@@ -39097,7 +39097,7 @@
   },
   {
     "statewide_rank": 2160,
-    "municipality": "Woodbury",
+    "municipality": "Woodbury Borough",
     "county": "Bedford County",
     "households_200k_plus_pct": 1.8,
     "households_200k_plus_moe": 2.5,
@@ -39421,7 +39421,7 @@
   },
   {
     "statewide_rank": 2179,
-    "municipality": "Tionesta",
+    "municipality": "Tionesta Borough",
     "county": "Forest County",
     "households_200k_plus_pct": 1.7,
     "households_200k_plus_moe": 1.9,
@@ -39691,7 +39691,7 @@
   },
   {
     "statewide_rank": 2203,
-    "municipality": "Union",
+    "municipality": "Union Borough",
     "county": "Erie County",
     "households_200k_plus_pct": 1.6,
     "households_200k_plus_moe": 2.2,
@@ -39853,7 +39853,7 @@
   },
   {
     "statewide_rank": 2203,
-    "municipality": "Sugar Grove",
+    "municipality": "Sugar Grove Township",
     "county": "Warren County",
     "households_200k_plus_pct": 1.6,
     "households_200k_plus_moe": 1.5,
@@ -39907,7 +39907,7 @@
   },
   {
     "statewide_rank": 2218,
-    "municipality": "Ridgway",
+    "municipality": "Ridgway Borough",
     "county": "Elk County",
     "households_200k_plus_pct": 1.5,
     "households_200k_plus_moe": 1.4,
@@ -39925,7 +39925,7 @@
   },
   {
     "statewide_rank": 2218,
-    "municipality": "Hopewell",
+    "municipality": "Hopewell Borough",
     "county": "Bedford County",
     "households_200k_plus_pct": 1.5,
     "households_200k_plus_moe": 5.3,
@@ -39943,7 +39943,7 @@
   },
   {
     "statewide_rank": 2218,
-    "municipality": "Monroe",
+    "municipality": "Monroe Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 1.5,
     "households_200k_plus_moe": 1.7,
@@ -40105,7 +40105,7 @@
   },
   {
     "statewide_rank": 2218,
-    "municipality": "Paint",
+    "municipality": "Paint Borough",
     "county": "Somerset County",
     "households_200k_plus_pct": 1.5,
     "households_200k_plus_moe": 2.0,
@@ -40249,7 +40249,7 @@
   },
   {
     "statewide_rank": 2218,
-    "municipality": "Benton",
+    "municipality": "Benton Borough",
     "county": "Columbia County",
     "households_200k_plus_pct": 1.5,
     "households_200k_plus_moe": 1.9,
@@ -40555,7 +40555,7 @@
   },
   {
     "statewide_rank": 2238,
-    "municipality": "Summerhill",
+    "municipality": "Summerhill Borough",
     "county": "Cambria County",
     "households_200k_plus_pct": 1.4,
     "households_200k_plus_moe": 1.9,
@@ -40807,7 +40807,7 @@
   },
   {
     "statewide_rank": 2260,
-    "municipality": "Sandy Lake",
+    "municipality": "Sandy Lake Borough",
     "county": "Mercer County",
     "households_200k_plus_pct": 1.3,
     "households_200k_plus_moe": 1.6,
@@ -40843,7 +40843,7 @@
   },
   {
     "statewide_rank": 2260,
-    "municipality": "Burnside",
+    "municipality": "Burnside Borough",
     "county": "Clearfield County",
     "households_200k_plus_pct": 1.3,
     "households_200k_plus_moe": 3.8,
@@ -40861,7 +40861,7 @@
   },
   {
     "statewide_rank": 2260,
-    "municipality": "Darby",
+    "municipality": "Darby Borough",
     "county": "Delaware County",
     "households_200k_plus_pct": 1.3,
     "households_200k_plus_moe": 1.6,
@@ -40897,7 +40897,7 @@
   },
   {
     "statewide_rank": 2260,
-    "municipality": "Burnside",
+    "municipality": "Burnside Township",
     "county": "Clearfield County",
     "households_200k_plus_pct": 1.3,
     "households_200k_plus_moe": 1.1,
@@ -41077,7 +41077,7 @@
   },
   {
     "statewide_rank": 2281,
-    "municipality": "Mahanoy",
+    "municipality": "Mahanoy Borough",
     "county": "Schuylkill County",
     "households_200k_plus_pct": 1.2,
     "households_200k_plus_moe": 1.8,
@@ -41113,7 +41113,7 @@
   },
   {
     "statewide_rank": 2281,
-    "municipality": "Venango",
+    "municipality": "Venango Borough",
     "county": "Crawford County",
     "households_200k_plus_pct": 1.2,
     "households_200k_plus_moe": 3.4,
@@ -41149,7 +41149,7 @@
   },
   {
     "statewide_rank": 2281,
-    "municipality": "Carbondale",
+    "municipality": "Carbondale City",
     "county": "Lackawanna County",
     "households_200k_plus_pct": 1.2,
     "households_200k_plus_moe": 1.1,
@@ -41239,7 +41239,7 @@
   },
   {
     "statewide_rank": 2281,
-    "municipality": "Wilkes-Barre",
+    "municipality": "Wilkes-Barre Township",
     "county": "Luzerne County",
     "households_200k_plus_pct": 1.2,
     "households_200k_plus_moe": 1.3,
@@ -41275,7 +41275,7 @@
   },
   {
     "statewide_rank": 2281,
-    "municipality": "Connellsville",
+    "municipality": "Connellsville Township",
     "county": "Fayette County",
     "households_200k_plus_pct": 1.2,
     "households_200k_plus_moe": 1.3,
@@ -41779,7 +41779,7 @@
   },
   {
     "statewide_rank": 2320,
-    "municipality": "Penn",
+    "municipality": "Penn Borough",
     "county": "Westmoreland County",
     "households_200k_plus_pct": 1.0,
     "households_200k_plus_moe": 1.9,
@@ -41905,7 +41905,7 @@
   },
   {
     "statewide_rank": 2320,
-    "municipality": "Brownsville",
+    "municipality": "Brownsville Borough",
     "county": "Fayette County",
     "households_200k_plus_pct": 1.0,
     "households_200k_plus_moe": 1.5,
@@ -41941,7 +41941,7 @@
   },
   {
     "statewide_rank": 2320,
-    "municipality": "Rochester",
+    "municipality": "Rochester Borough",
     "county": "Beaver County",
     "households_200k_plus_pct": 1.0,
     "households_200k_plus_moe": 1.2,
@@ -41977,7 +41977,7 @@
   },
   {
     "statewide_rank": 2320,
-    "municipality": "Plymouth",
+    "municipality": "Plymouth Borough",
     "county": "Luzerne County",
     "households_200k_plus_pct": 1.0,
     "households_200k_plus_moe": 1.1,
@@ -41995,7 +41995,7 @@
   },
   {
     "statewide_rank": 2320,
-    "municipality": "Mount Carmel",
+    "municipality": "Mount Carmel Borough",
     "county": "Northumberland County",
     "households_200k_plus_pct": 1.0,
     "households_200k_plus_moe": 1.2,
@@ -42085,7 +42085,7 @@
   },
   {
     "statewide_rank": 2337,
-    "municipality": "Dunbar",
+    "municipality": "Dunbar Borough",
     "county": "Fayette County",
     "households_200k_plus_pct": 0.9,
     "households_200k_plus_moe": 1.2,
@@ -42337,7 +42337,7 @@
   },
   {
     "statewide_rank": 2337,
-    "municipality": "Tremont",
+    "municipality": "Tremont Township",
     "county": "Schuylkill County",
     "households_200k_plus_pct": 0.9,
     "households_200k_plus_moe": 2.5,
@@ -42391,7 +42391,7 @@
   },
   {
     "statewide_rank": 2337,
-    "municipality": "Towanda",
+    "municipality": "Towanda Borough",
     "county": "Bradford County",
     "households_200k_plus_pct": 0.9,
     "households_200k_plus_moe": 1.4,
@@ -42895,7 +42895,7 @@
   },
   {
     "statewide_rank": 2377,
-    "municipality": "Snow Shoe",
+    "municipality": "Snow Shoe Borough",
     "county": "Centre County",
     "households_200k_plus_pct": 0.7,
     "households_200k_plus_moe": 1.1,
@@ -43183,7 +43183,7 @@
   },
   {
     "statewide_rank": 2392,
-    "municipality": "Westfield",
+    "municipality": "Westfield Township",
     "county": "Tioga County",
     "households_200k_plus_pct": 0.6,
     "households_200k_plus_moe": 0.8,
@@ -43453,7 +43453,7 @@
   },
   {
     "statewide_rank": 2404,
-    "municipality": "Shippensburg",
+    "municipality": "Shippensburg Borough",
     "county": "Cumberland County",
     "households_200k_plus_pct": 0.5,
     "households_200k_plus_moe": 0.9,
@@ -43489,7 +43489,7 @@
   },
   {
     "statewide_rank": 2416,
-    "municipality": "Tionesta",
+    "municipality": "Tionesta Township",
     "county": "Forest County",
     "households_200k_plus_pct": 0.4,
     "households_200k_plus_moe": 0.7,
@@ -44551,7 +44551,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Woodcock",
+    "municipality": "Woodcock Borough",
     "county": "Crawford County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 38.3,
@@ -44875,7 +44875,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Oswayo",
+    "municipality": "Oswayo Township",
     "county": "Potter County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 24.8,
@@ -44893,7 +44893,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Oswayo",
+    "municipality": "Oswayo Borough",
     "county": "Potter County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 38.6,
@@ -45379,7 +45379,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Mahanoy",
+    "municipality": "Mahanoy Township",
     "county": "Schuylkill County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 8.2,
@@ -45541,7 +45541,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Nicholson",
+    "municipality": "Nicholson Borough",
     "county": "Wyoming County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 11.6,
@@ -45577,7 +45577,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Darlington",
+    "municipality": "Darlington Borough",
     "county": "Beaver County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 25.3,
@@ -45613,7 +45613,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Addison",
+    "municipality": "Addison Borough",
     "county": "Somerset County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 27.4,
@@ -45721,7 +45721,7 @@
   },
   {
     "statewide_rank": 2428,
-    "municipality": "Laporte",
+    "municipality": "Laporte Borough",
     "county": "Sullivan County",
     "households_200k_plus_pct": 0.0,
     "households_200k_plus_moe": 28.7,
